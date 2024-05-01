@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Citation
+The repo follows along the YouTube video - https://www.youtube.com/watch?v=r895rFUbGtE&t=8336s
+by Elliot Chong
+https://github.com/elliott-chong/chatpdf-yt
+
+The purpose of this repo is for personal learning through practice by following the video link above and recreating the website. 
+
+
 ## Getting Started
 
 First, run the development server:
